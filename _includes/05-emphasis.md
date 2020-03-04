@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Learning some **awesome** _new_ skills on github :stuck_out_tongue_closed_eyes:
