@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+*Favorite Movies
+  *Forest Gump
+  *Alice in Wonderland
+  *Ever After
